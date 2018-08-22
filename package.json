@@ -12,7 +12,7 @@
       "email": "franz.kaiser@kaiser-mechatronik.de"
     }
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.kmcanio",
+  "homepage": "https://github.com/kais0r/ioBroker.kmcanio",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -22,9 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.kmcanio"
+    "url": "https://github.com/kais0r/ioBroker.kmcanio"
   },
-  "dependencies": {},
+  "dependencies": {
+	"socketcan":"^2.2.2"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "mocha": "^4.1.0",
@@ -35,7 +37,7 @@
     "test": "node node_modules/mocha/bin/mocha --exit"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.kmcanio/issues"
+    "url": "https://github.com/kais0r/ioBroker.kmcanio/issues"
   },
   "readmeFilename": "README.md"
 }

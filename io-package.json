@@ -8,14 +8,12 @@
                 "de": "Initiale Version"
             }
         },
-		"title": "Javascript/Node.js based kmcanio",
+		"title": "KM CAN-Bus IO Modules",
         "titleLang": {
-            "en": "Javascript/Node.js based kmcanio",
-            "de": "Javascript / Node.js basierte Vorlagenadapter"
+            "en": "Interface with KM CAN IO Modules"
         },
         "desc": {
-            "en": "ioBroker kmcanio",
-            "de": "ioBroker Kmcanio"
+            "en": "Interface with KM CAN IO Modules"
         },
         "authors": [
             "M.Eng. Franz Kaiser <franz.kaiser@kaiser-mechatronik.de>"
