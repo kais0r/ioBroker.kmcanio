@@ -141,7 +141,6 @@ function main() {
 	
 	
 	
-	
 	var can = require('socketcan');
 	var bus = can.createRawChannel("can0", true);
 	

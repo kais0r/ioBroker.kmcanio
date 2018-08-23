@@ -4,8 +4,7 @@
         "version": "0.0.1",
         "news": {
             "0.0.1": {
-                "en": "initial adapter",
-                "de": "Initiale Version"
+                "en": "initial adapter"
             }
         },
 		"title": "KM CAN-Bus IO Modules",
@@ -19,8 +18,7 @@
             "M.Eng. Franz Kaiser <franz.kaiser@kaiser-mechatronik.de>"
         ],
         "docs": {
-            "en": "docs/en/admin.md",
-            "de": "docs/de/admin.md"
+            "en": "docs/en/admin.md"
         },
         "platform": "Javascript/Node.js",
         "mode": "daemon",
